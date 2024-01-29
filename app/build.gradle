@@ -46,7 +46,7 @@ dependencies {
     def lifecycle_version = "2.3.1"
     //noinspection GroovyUnusedAssignment
     def arch_version = "2.1.0"
-    def room_version = "2.3.0"
+    def room_version = "2.6.1"
     def coroutines_version = "1.7.3"
     def dagger_version = "2.50"
     def retrofit_version = "2.9.0"
