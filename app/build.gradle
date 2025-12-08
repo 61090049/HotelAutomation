@@ -53,7 +53,7 @@ dependencies {
     def Interceptor_version = "5.3.2"
     def Glide_version = "5.0.5"
     def nav_version = "2.9.6"
-    def camerax_version = "1.5.1"
+    def camerax_version = "1.5.2"
 
 
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
